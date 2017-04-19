@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorium 2</string>
+    <string name="text_show_student_list">Pokaż listę studentów</string>
+    <string name="button_start_new_activity">Start new activity</string>
+</resources>
